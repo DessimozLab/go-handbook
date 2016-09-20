@@ -1,3 +1,4 @@
+install
 *.png
-.data
+data
 .ipynb_checkpoints/
