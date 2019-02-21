@@ -2,7 +2,6 @@ goatools
 future
 wget
 biopython
-xmltodict
 terminaltables
 matplotlib
 visualisedictionary
